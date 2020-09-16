@@ -8,4 +8,6 @@ LoRa 를 활용한 소형 선외기용 실시간위치기반 비콘 장치
 ```
 https://github.com/jrowberg/i2cdevlib
 https://github.com/mikalhart/TinyGPS
+https://github.com/mikalhart/TinyGPSPlus
+https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
 ```
