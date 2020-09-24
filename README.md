@@ -11,3 +11,13 @@ https://github.com/mikalhart/TinyGPS
 https://github.com/mikalhart/TinyGPSPlus
 https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
 ```
+
+- LoRa data
+```
+1. deviceSN
+2. x degree
+3. y degree
+4. z degree
+5. latitude
+6. longitude
+```
